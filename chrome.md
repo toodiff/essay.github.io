@@ -1,4 +1,5 @@
-## centos chrome error
+## 1、centos chrome error
+
 ```shell
 $ google-chrome
 
